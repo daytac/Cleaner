@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8918adb282296234ba37eb0aa89551fe, type: 3}
+  m_Name: Emoji_parti_papagan
+  m_EditorClassIdentifier: Assembly-CSharp::EmojiData
+  emojiAdi: "Papa\u011Fan"
+  emojiSprite: {fileID: 21300000, guid: 06f93a6015f26aa4380db35f37ca0646, type: 3}
+  nadirlik: 2
+  asamalar:
+  - asamaAdi: "Kabay\u0131 Temizle"
+    kirliTexture: {fileID: 2800000, guid: aaa4f523f5049c448825e032946f974d, type: 3}
+    temizTexture: {fileID: 2800000, guid: b21c0bff42ce5ef40980c067ba43eb52, type: 3}
+    aletModeli: {fileID: 6381504370364259154, guid: 1744b1c583980c449b77ec4540075c42, type: 3}
+    fircaSekli: {fileID: 2800000, guid: 7457dd2f45b2f7d45b83c8219da2fe7c, type: 3}
+    fircaBoyutu: 250
+    tamamlanmaOrani: 0.99
+  - asamaAdi: "\u0130nce Temizlik"
+    kirliTexture: {fileID: 2800000, guid: b21c0bff42ce5ef40980c067ba43eb52, type: 3}
+    temizTexture: {fileID: 2800000, guid: 27c65168de5a8b44eaa642606062ed3c, type: 3}
+    aletModeli: {fileID: 6381504370364259154, guid: 1744b1c583980c449b77ec4540075c42, type: 3}
+    fircaSekli: {fileID: 2800000, guid: 7457dd2f45b2f7d45b83c8219da2fe7c, type: 3}
+    fircaBoyutu: 200
+    tamamlanmaOrani: 0.99
+  - asamaAdi: "\u0130nce Temizlik"
+    kirliTexture: {fileID: 2800000, guid: 27c65168de5a8b44eaa642606062ed3c, type: 3}
+    temizTexture: {fileID: 2800000, guid: 1541ca045bc501e46a4438aa24f7e045, type: 3}
+    aletModeli: {fileID: 6249435947001031765, guid: 251f4fa042fd01044b83bc01d30f8370, type: 3}
+    fircaSekli: {fileID: 2800000, guid: 21eed3d1e54ba88449da5250d0cc5afe, type: 3}
+    fircaBoyutu: 150
+    tamamlanmaOrani: 0.99
+  temizTexture: {fileID: 2800000, guid: 1541ca045bc501e46a4438aa24f7e045, type: 3}
+  kurtarmaYazisi: "Tebrikler! {0}'\u0131 kurtard\u0131n!"
+  emojiID: emoji_parti_papagan

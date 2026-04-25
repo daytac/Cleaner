@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8918adb282296234ba37eb0aa89551fe, type: 3}
+  m_Name: Emoji_salyali_dil
+  m_EditorClassIdentifier: Assembly-CSharp::EmojiData
+  emojiAdi: "G\xFClen Surat"
+  emojiSprite: {fileID: 21300000, guid: 6b49f2e2f6e71e1408ac1f6f4e0fc575, type: 3}
+  nadirlik: 0
+  asamalar:
+  - asamaAdi: "Kabay\u0131 Temizle"
+    kirliTexture: {fileID: 2800000, guid: e11915f18a11eda47aac588cfb598a50, type: 3}
+    temizTexture: {fileID: 2800000, guid: b456ef0da0a97a24eb7bc02e96528930, type: 3}
+    aletModeli: {fileID: 6381504370364259154, guid: 1744b1c583980c449b77ec4540075c42, type: 3}
+    fircaSekli: {fileID: 2800000, guid: 7457dd2f45b2f7d45b83c8219da2fe7c, type: 3}
+    fircaBoyutu: 350
+    tamamlanmaOrani: 0.99
+  - asamaAdi: "\u0130nce Temizlik"
+    kirliTexture: {fileID: 2800000, guid: b456ef0da0a97a24eb7bc02e96528930, type: 3}
+    temizTexture: {fileID: 2800000, guid: 52372ca3fdf47ce4295b860bfdcf8f1e, type: 3}
+    aletModeli: {fileID: 6249435947001031765, guid: 251f4fa042fd01044b83bc01d30f8370, type: 3}
+    fircaSekli: {fileID: 2800000, guid: 21eed3d1e54ba88449da5250d0cc5afe, type: 3}
+    fircaBoyutu: 250
+    tamamlanmaOrani: 0.99
+  temizTexture: {fileID: 2800000, guid: 52372ca3fdf47ce4295b860bfdcf8f1e, type: 3}
+  kurtarmaYazisi: "Tebrikler! {0}'\u0131 kurtard\u0131n!"
+  emojiID: emoji_salyali_dil
