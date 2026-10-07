@@ -25,7 +25,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _KirliTexture:
-        m_Texture: {fileID: 2800000, guid: 243acbbbce84337458ed778b66bf9094, type: 3}
+        m_Texture: {fileID: 2800000, guid: f62caff4ab8edd54b9061a2d553d6c6e, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _LekeMaskesi:
@@ -33,7 +33,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _TemizTexture:
-        m_Texture: {fileID: 2800000, guid: b456ef0da0a97a24eb7bc02e96528930, type: 3}
+        m_Texture: {fileID: 2800000, guid: e4f6c5a46a990e6489961966758afe07, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Ints: []
